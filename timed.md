@@ -10,7 +10,7 @@
 }
 ```
 
-###Block
+### Block
 
 > blockquote
 
@@ -27,7 +27,7 @@ Here's a sentence with a footnote. [^1]
 
 ~~ Strikethrough ~~
 
-term : definition
+term: definition
 
 X^2^
 X~2~0

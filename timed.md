@@ -21,18 +21,45 @@
 
 ![alt text](test.png)
 
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote.[^1]
 
 [^1]: This is the footnote.
 
-~~ Strikethrough ~~
-
-term: definition
+~~Strikethrough~~
+_underscore_
+*italics*
+..* Unordered List
+term : definition
 
 X^2^
+
 X~2~0
+
 - [X] Write the press release
 
 Emoji test :joy:
 
-Highlighting ==highlight==
+Highlighting == highlight ==
+<mark>highlight</mark>
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+Three or more...
+
+----
+
+Hyphens
+
+****
+
+Asterisks
+
+____
+
+Underscores
